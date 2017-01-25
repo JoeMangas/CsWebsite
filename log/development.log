@@ -1,0 +1,261 @@
+Started GET "/" for ::1 at 2017-01-25 16:10:21 -0500
+Started GET "/" for ::1 at 2017-01-25 16:10:21 -0500
+Started GET "/" for ::1 at 2017-01-25 16:15:52 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 2147ms (Views: 2125.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:16:59 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 40ms (Views: 36.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:17:06 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 28ms (Views: 26.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:23:42 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Completed 200 OK in 4653ms (Views: 4651.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:24:36 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Completed 200 OK in 2207ms (Views: 2205.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:25:12 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Completed 200 OK in 2182ms (Views: 2180.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:25:27 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Completed 200 OK in 1949ms (Views: 1947.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:33:41 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 78ms (Views: 64.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:35:16 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 27ms (Views: 24.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:42:26 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 295ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial partials/_jumbotron with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/stephenbetcher/myboostrap/app/views"
+):
+    35:       </div>
+    36:     </nav>
+    37: 
+    38:   <%= render 'partials/jumbotron' %>
+    39:     <div class="container">
+    40:       <%= yield %>
+    41: 
+  
+app/views/layouts/application.html.erb:38:in `_app_views_layouts_application_html_erb___3323879944713397343_70099738995160'
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.0ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.9ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (74.5ms)
+Started GET "/" for ::1 at 2017-01-25 16:43:53 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 32ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::Template::Error (Missing partial partials/_jumbotron with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:
+  * "/Users/stephenbetcher/myboostrap/app/views"
+):
+    35:       </div>
+    36:     </nav>
+    37: 
+    38:   <%= render 'partials/jumbotron' %>
+    39: 
+    40:     <div class="container">
+    41:       <%= yield %>
+  
+app/views/layouts/application.html.erb:38:in `_app_views_layouts_application_html_erb___3323879944713397343_70099674365800'
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.9ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (74.9ms)
+Started GET "/" for ::1 at 2017-01-25 16:44:46 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 24.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:51:52 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 66ms (Views: 64.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:55:56 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 26ms (Views: 24.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:57:04 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 26ms (Views: 23.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:57:46 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 25ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:57:48 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 33ms (Views: 30.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:59:52 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 25ms (Views: 23.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2017-01-25 16:59:55 -0500
+Processing by AboutController#index as HTML
+  Rendering about/index.html.erb within layouts/application
+  Rendered about/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 33ms (Views: 30.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 16:59:57 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 41ms (Views: 37.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 17:03:13 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 500 Internal Server Error in 7ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/stephenbetcher/myboostrap/app/views/layouts/application.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+'.freeze; if params[:controller] == home 'home' 
+                                          ^
+/Users/stephenbetcher/myboostrap/app/views/layouts/application.html.erb:57: syntax error, unexpected keyword_ensure, expecting end-of-input):
+  
+app/views/layouts/application.html.erb:33: syntax error, unexpected tSTRING_BEG, expecting keyword_do or '{' or '('
+app/views/layouts/application.html.erb:57: syntax error, unexpected keyword_ensure, expecting end-of-input
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.7ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.1ms)
+  Rendering /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/stephenbetcher/.rvm/gems/ruby-2.3.0/gems/actionpack-5.0.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (72.7ms)
+Started GET "/" for ::1 at 2017-01-25 17:03:47 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 111ms (Views: 109.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2017-01-25 17:03:49 -0500
+Processing by AboutController#index as HTML
+  Rendering about/index.html.erb within layouts/application
+  Rendered about/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 62ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/about" for ::1 at 2017-01-25 17:05:10 -0500
+Processing by AboutController#index as HTML
+  Rendering about/index.html.erb within layouts/application
+  Rendered about/index.html.erb within layouts/application (0.3ms)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Started GET "/" for ::1 at 2017-01-25 17:05:12 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3048ms (Views: 3046.2ms | ActiveRecord: 0.0ms)
+
+
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+DEPRECATION WARNING: Extra .css in SCSS file is unnecessary. Rename /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.css.scss to /Users/stephenbetcher/myboostrap/app/assets/stylesheets/main.scss. (called from find_asset at /Users/stephenbetcher/.rvm/gems/ruby-2.3.0@global/gems/sprockets-rails-3.2.0/lib/sprockets/rails/helper.rb:355)
+Completed 200 OK in 2191ms (Views: 2186.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 17:05:15 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 46ms (Views: 43.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-01-25 17:05:17 -0500
+Processing by HomeController#index as HTML
+  Rendering home/index.html.erb within layouts/application
+  Rendered home/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 30ms (Views: 28.2ms | ActiveRecord: 0.0ms)
+
+
