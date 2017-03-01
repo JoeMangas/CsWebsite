@@ -1,0 +1,38 @@
+Senior Design Project: C’s Perfect Tie
+
+Homepage Page: (STEPHEN)
+	Event Scaffolding to add/remove/show/edit events
+	Add pictures and more attraction
+
+Item Page (Shop): (MATT & SEAN)
+	Show items in 3 columns with description/price/? below the picture
+	Search bar on left
+	Rename to “Shop”
+	New scaffold including any missing values (gender/?)
+	“Put in cart” option
+	No destroy for items. Instead mark out of stock AND tag so item stays in database but 	not displayed. 
+
+Cart Page(?): (MATT & SEAN)
+	Create page
+	Add items
+	Email confirmation
+	Tracking information emailed by C himself
+	Paypal
+
+Contact Page: (SEAN)
+	Contact functionality
+	More bullets for information
+
+Login Page: (JOE)
+	Functionality
+	Add Profiles for each customer (STEPHEN)
+	Customers can view current orders
+
+Order Review Page (Client only): 
+	List of orders that are pending
+	View accepted/past/new orders (Processing(?))
+	
+AWS
+
+	
+
